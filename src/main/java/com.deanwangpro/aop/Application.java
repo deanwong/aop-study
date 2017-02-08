@@ -39,7 +39,7 @@ public class Application {
             Person cglibProxy = PersonProxyFactory.newCglibProxy();
             cglibProxy.sayHi();
             cglibProxy.sayBye();
-            System.exit(0);git
+            System.exit(0);
         };
     }
 
